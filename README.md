@@ -4,6 +4,8 @@ Some Basic Program in Various Languages.
 
 #### Update your Repository with main
 
+// All of this can also be done through Github and Git GUI.
+
 Add the remote, call it "upstream" :
 
 ```bash
